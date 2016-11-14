@@ -11,12 +11,12 @@
 #
 #
 # -- matrixTestA:
-A = matrix(
-  c(0.5,-1,1,6,
-    3,2,1,8,
-    5,-1,-3,-1),
-  3,4, TRUE  # matrixLines, matrixColumns, lineFirst
-)
+# A = matrix(
+#   c(0.5,-1,1,6,
+#     3,2,1,8,
+#     5,-1,-3,-1),
+#   3,4, TRUE  # matrixLines, matrixColumns, lineFirst
+#)
 # -- matrixTestC:
 # C = matrix(
 #       c(3,1,1,20,
